@@ -1,0 +1,48 @@
+[07-Dec-2018 15:31:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:31:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:31:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:31:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:31:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:31:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:31:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:31:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155
+[07-Dec-2018 15:32:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:32:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:32:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:32:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:32:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:32:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:32:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:32:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155
+[07-Dec-2018 15:33:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:33:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:33:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:33:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:33:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:33:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:33:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:33:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155
+[07-Dec-2018 15:34:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:34:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:34:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:34:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:34:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:34:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:34:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:34:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155
+[07-Dec-2018 15:35:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:35:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:35:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:35:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:35:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:35:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:35:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:35:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155
+[07-Dec-2018 15:36:03 PRC] PHP Warning:  Swoole\Server::task(): task method can only be used in the worker process. in /home/worker/data/www/swoolecrontab/core/app/Process.php on line 155
+[07-Dec-2018 15:36:03 PRC] PHP Stack trace:
+[07-Dec-2018 15:36:03 PRC] PHP   1. {main}() /home/worker/data/www/swoolecrontab/core/center.php:0
+[07-Dec-2018 15:36:03 PRC] PHP   2. App\CenterServer->__construct() /home/worker/data/www/swoolecrontab/core/center.php:24
+[07-Dec-2018 15:36:03 PRC] PHP   3. Swoole\Server->start() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:57
+[07-Dec-2018 15:36:03 PRC] PHP   4. App\CenterServer->App\{closure}() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:0
+[07-Dec-2018 15:36:03 PRC] PHP   5. App\Process::checkProcessTimeOut() /home/worker/data/www/swoolecrontab/core/app/CenterServer.php:104
+[07-Dec-2018 15:36:03 PRC] PHP   6. Swoole\Server->task() /home/worker/data/www/swoolecrontab/core/app/Process.php:155

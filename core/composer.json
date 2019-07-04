@@ -1,0 +1,12 @@
+{
+  "name": "swoolecrontab",
+  "version": "0.0.1",
+  "autoload": {
+    "psr-4":{
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.24"
+  }
+}
